@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebook backup
+notebooks/01_movie_genre_classification_backup.ipynb
+
+# Raw dataset
+data/
+
+# Generated cleaned dataset
+outputs/movie_genre_cleaned.csv
